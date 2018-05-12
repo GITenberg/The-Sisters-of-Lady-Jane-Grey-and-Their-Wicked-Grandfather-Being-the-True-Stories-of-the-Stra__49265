@@ -1,4 +1,8 @@
 _repo: The-Sisters-of-Lady-Jane-Grey-and-Their-Wicked-Grandfather-Being-the-True-Stories-of-the-Stra__49265
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49265-h/images/cover.jpg
 creator:
   author:
     agent_name: Davey, Richard
@@ -9,6 +13,8 @@ creator:
     gutenberg_agent_id: '37950'
     url: http://www.gutenberg.org/2009/agents/37950
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49265#The-Sisters-of-Lady-Jane-Grey-and-Their-Wicked-Grandfather-Being-the-True-Stories-of-the-Stra_
 gutenberg_issued: '2015-06-23'
 gutenberg_type: Text
 identifiers:
