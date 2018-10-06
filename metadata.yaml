@@ -23,6 +23,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Sisters of Lady Jane Grey and Their Wicked Grandfather
 
   Being the True Stories of the Strange Lives of Charles
